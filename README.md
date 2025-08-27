@@ -18,7 +18,7 @@ matplotlib
 
 yfinance
 How to Run
-git clone https://github.com/your-username/Applied-Data-Science-Project.git
+git clone https://github.com/Shayan73/Applied-Data-Science-Project.git
 jupyter notebook GameStop_Analysis.ipynb
 nsights
 GameStop’s stock surge in early 2021 was largely disconnected from its revenue performance.
